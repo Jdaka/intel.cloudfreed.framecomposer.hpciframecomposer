@@ -1,0 +1,3 @@
+[submodule "intel.cloudfreed.framecomposer.interfaces"]
+	path = intel.cloudfreed.framecomposer.interfaces
+	url = https://github.com/Jdaka/intel.cloudfreed.framecomposer.interfaces.git
